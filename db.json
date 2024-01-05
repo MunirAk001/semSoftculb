@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "title": "Ahmad Abdulsamade",
+      "phone": "915008800",
+      "gruop_1": "Html",
+      "gruop_2": "Html",
+      "level": "senior 2",
+      "Exp": "1 years",
+      "Emil": "Emils.jsahkjdahjkhdkjahk",
+    "Menet":"1 muoer 30 secod",
+
+      "Acont":"Registered",
+      "postion": "fortend Developer",
+      "Telegram": "499i0943908098",
+      "id": 1
+    },
+    {
+      "title": "Alijon Zabirov",
+      "Acont": "Registered",
+
+      "phone": "881667007",
+      "gruop_1": "C++",
+      "gruop_2": "C++",
+      "Emil": "NO Emil",
+      "Telegram": "NO Telegram",
+
+      "level": "senior 2",
+      "Exp": "2 years",
+      "postion": "Backend Developer",
+      "id": 2
+    },
+
+    {
+      "Telegram": "988175990",
+      "Acont": " Not Registered",
+
+      "title": "Omina Kabirova",
+      "phone": "988175990",
+      "gruop_1": "Olypined",
+      "gruop_2": "Olypined",
+      "level": "senior ",
+      "Exp": "1 years",
+      "postion": "Techaer",
+      "Emil": "NO Emil",
+
+      "id": 3
+    },
+    {
+      "Telegram": "499i0943908098",
+      "Acont": " Registered",
+
+      "title": "Shahboz Abdullo",
+      "phone": "985931779",
+      "gruop-1": "NOT gruop",
+      "level": "jonior",
+      "Exp": "1 years",
+      "Emil": "NO Emil",
+
+      "postion": "jonior fortend Developer",
+
+      "id": 4
+    },
+    {
+      "Telegram": "880862121",
+      "Acont": " Not Registered",
+
+      "title": "Golib kabirov",
+      "phone": "880862121",
+      "gruop_1": "C++",
+      "gruop_2": "C++",
+      "level": "senior 1",
+      "Exp": "3 years",
+      "Emil": "NO Emil",
+
+      "postion": "Backend Developer",
+
+      "id": 5
+    },
+    {
+      "Telegram": "988175990",
+      "Acont": "Registered",
+
+      "title": "Fariz Safarov",
+      "phone": "987355558",
+      "gruop_1": "Olypined",
+      "gruop_2": "Olypined",
+      "level": "jonior",
+      "Exp": "6 month",
+      "postion": "Techaer",
+      "Emil": "NO Emil",
+
+      "id": 5
+    }
+  ]
+}
